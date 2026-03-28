@@ -1,6 +1,7 @@
 # Terms of Use for Bookshelf
 
-**Effective Date:** February 19, 2026
+**Effective Date:** February 19, 2026  
+**Last Updated:** March 28, 2026
 
 These Terms of Use (“Terms”) govern your use of Bookshelf, provided by Huda AbuSharr (independent developer).
 
@@ -8,7 +9,8 @@ By using Bookshelf, you agree to these Terms.
 
 ## 1. Eligibility
 
-You must use the app in compliance with applicable laws and platform terms (including Google Play terms).
+You must use the app in compliance with applicable laws and platform terms (including Google Play terms).  
+Bookshelf is intended for adults (18+).
 
 ## 2. Account Responsibility
 
@@ -26,7 +28,23 @@ Bookshelf may offer in-app purchases (for example, premium/remove ads) via Googl
 - Premium access depends on successful purchase verification.
 - Misuse, fraud, or tampering may result in suspension of entitlement.
 
-## 5. Prohibited Conduct
+## 5. AI Features and Recommendations
+
+Bookshelf may provide AI-powered summaries and recommendations (including Movie-to-Book results).
+
+- AI outputs may be incomplete, inaccurate, or not suitable for all users.
+- You are responsible for your use of AI-generated content.
+- AI features may rely on third-party services and may change, be limited, or be unavailable.
+
+## 6. Third-Party Content and Services
+
+Bookshelf relies on third-party services and metadata providers (such as Google Books API, Firebase, AdMob, and Google Play services).
+
+- Book metadata, previews, and linked content are provided by third parties.
+- Third-party terms and policies apply to their services and content.
+- We are not responsible for third-party content availability or accuracy.
+
+## 7. Prohibited Conduct
 
 You agree not to:
 
@@ -35,32 +53,33 @@ You agree not to:
 - use the app for unlawful or abusive activity,
 - interfere with app infrastructure or normal operation.
 
-## 6. Intellectual Property
+## 8. Intellectual Property
 
 Bookshelf, its software, design, and branding are proprietary and protected by law.
 
 Third-party content and metadata (including book metadata) remain the property of their respective owners/providers.
 
-## 7. Availability and Changes
+## 9. Availability and Changes
 
 We may modify, suspend, or discontinue features at any time without liability.
 
-## 8. Disclaimer
+## 10. Disclaimer
 
 Bookshelf is provided “as is” and “as available,” without warranties of any kind, to the maximum extent permitted by law.
 
-## 9. Limitation of Liability
+## 11. Limitation of Liability
 
 To the maximum extent permitted by law, Huda AbuSharr is not liable for indirect, incidental, special, consequential, or punitive damages related to your use of Bookshelf.
 
-## 10. Termination
+## 12. Termination
 
 Access may be suspended or terminated for violations of these Terms, abuse, or security risks.
 
-## 11. Governing Law
+## 13. Governing Law
 
 These Terms are governed by the laws of the **State of Palestine**.
 
-## 12. Contact
+## 14. Contact
 
-Email: **bookshelf.developer@gmail.com**
+Email: **bookshelf.developer@gmail.com**  
+Project page: [bookshelf-legal](https://github.com/HudaFawzi/bookshelf-legal)
