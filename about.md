@@ -8,6 +8,8 @@ Bookshelf is a reading discovery and personal library companion app built by **H
 - Search and browse book metadata
 - Save, favorite, and mark books as read
 - Sync your reading state with your account
+- Get optional AI-powered summaries and recommendations
+- Use the Movie-to-Book feature to find books with similar themes
 - Optional premium purchase to remove ads
 
 ## Transparency
@@ -22,4 +24,4 @@ Bookshelf provides dedicated pages for:
 ## Contact
 
 Support and inquiries: **bookshelf.developer@gmail.com**  
-Project page: **[[bookshelf-legal]](https://github.com/HudaFawzi/bookshelf-legal)**
+Project page: [bookshelf-legal](https://github.com/HudaFawzi/bookshelf-legal)
