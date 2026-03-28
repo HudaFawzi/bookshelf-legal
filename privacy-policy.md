@@ -1,7 +1,7 @@
 # Privacy Policy for Bookshelf
 
 **Effective Date:** February 19, 2026  
-**Last Updated:** February 19, 2026
+**Last Updated:** March 28, 2026
 
 Huda AbuSharr (independent developer) (“we,” “our,” or “us”) operates the Bookshelf mobile application.
 
@@ -11,22 +11,26 @@ This Privacy Policy explains what information we collect, how we use it, and you
 
 We may collect the following categories of information:
 
-- Account Information: email address, user ID, and display name.
-- User Library Data: favorite/read/saved book states and sync metadata.
-- Purchase Data: premium status and purchase token metadata used for entitlement verification.
-- Device and Diagnostics Data: app version, device model, OS version, crash logs, and performance diagnostics.
-- Messaging Data: Firebase Cloud Messaging (FCM) token for notifications.
-- Advertising Data: ad-related identifiers and interaction events for non-premium users, subject to platform settings and applicable laws.
-- Content Request Data: search and request parameters used to fetch book metadata from third-party APIs.
+- **Account Information:** email address, user ID, and display name (for signed-in users).
+- **User Library Data:** favorite/read/saved book states and sync metadata.
+- **Search and Discovery Data:** in-app search terms and movie-to-book query inputs (for example, movie names) used to fetch and rank recommendations.
+- **AI Feature Request Data:** prompts and related metadata needed to generate AI summaries and recommendations (including Movie-to-Book suggestions).
+- **Purchase Data:** premium status and purchase token/transaction metadata used for entitlement verification and anti-fraud.
+- **Device and Diagnostics Data:** app version, device model, OS version, crash logs, and performance diagnostics.
+- **Messaging Data:** Firebase Cloud Messaging (FCM) token for optional notifications.
+- **Advertising Data:** ad-related identifiers and interaction events for non-premium users, subject to platform settings and applicable laws.
+- **Content Request Data:** request parameters used to fetch book metadata from third-party APIs.
 
 ## 2. How We Use Information
 
 We use collected data to:
 
 - authenticate users and manage accounts,
-- sync reading state and saved content,
+- provide guest mode and signed-in sync experiences,
+- sync reading state and saved content across devices,
 - verify premium purchase entitlement,
 - provide app features and requested content,
+- generate and rank AI-powered summaries and recommendations,
 - improve reliability, stability, and performance,
 - send optional notifications,
 - display ads to non-premium users.
@@ -35,15 +39,16 @@ We use collected data to:
 
 Bookshelf uses third-party services, including:
 
-- Firebase Authentication
-- Firebase Firestore
-- Firebase Analytics
-- Firebase Crashlytics
-- Firebase Cloud Messaging
-- Firebase In-App Messaging
-- Google AdMob
-- Google Play Billing
-- Google Books API
+- Firebase Authentication  
+- Firebase Firestore  
+- Firebase Crashlytics  
+- Firebase Cloud Messaging  
+- Firebase Functions  
+- Google AdMob  
+- Google Play Billing  
+- Google Books API  
+- Google Gemini API (for AI features)  
+- Google Play Services / Google Sign-In components
 
 These providers process data under their own policies and terms.
 
@@ -62,6 +67,7 @@ We may share data only:
 We retain data only as long as needed for service operation, fraud prevention, legal compliance, and support.
 
 - Account and sync data are retained while the account is active.
+- Guest-mode data may be stored locally on-device until cleared or app data is removed.
 - Purchase-related records may be retained for entitlement verification and anti-fraud.
 - Some analytics/diagnostic retention is controlled by third-party providers.
 
@@ -71,7 +77,7 @@ We use reasonable technical and organizational safeguards. No method of transmis
 
 ## 7. Children’s Privacy
 
-Bookshelf is intended for a general audience. We do not knowingly collect personal data from children in violation of applicable law. If you believe this occurred, contact us for review and deletion.
+Bookshelf is intended for adults (18+) and is not directed to children. We do not knowingly collect personal data from children in violation of applicable law. If you believe this occurred, contact us for review and deletion.
 
 ## 8. International Processing
 
@@ -90,4 +96,4 @@ We may update this Privacy Policy. Updates are reflected by the “Last Updated�
 ## 11. Contact
 
 Email: **bookshelf.developer@gmail.com**  
-Project page: **[[bookshelf-legal]](https://github.com/HudaFawzi/bookshelf-legal)**
+Project page: [bookshelf-legal](https://github.com/HudaFawzi/bookshelf-legal)
