@@ -1,7 +1,7 @@
 # Privacy Policy for Bookshelf
 
 **Effective Date:** February 19, 2026  
-**Last Updated:** March 28, 2026
+**Last Updated:** March 30, 2026
 
 Huda AbuSharr (independent developer) (“we,” “our,” or “us”) operates the Bookshelf mobile application.
 
@@ -14,7 +14,8 @@ We may collect the following categories of information:
 - **Account Information:** email address, user ID, and display name (for signed-in users).
 - **User Library Data:** favorite/read/saved book states and sync metadata.
 - **Search and Discovery Data:** in-app search terms and movie-to-book query inputs (for example, movie names) used to fetch and rank recommendations.
-- **AI Feature Request Data:** prompts and related metadata needed to generate AI summaries and recommendations (including Movie-to-Book suggestions).
+- **Book Scanner Data:** images selected from gallery or captured with camera when you use Book Scanner, plus extracted identification signals (such as title/author candidates) used to run book lookup.
+- **AI Feature Request Data:** prompts and related metadata needed to generate AI summaries, recommendations, and scanner-based identification.
 - **Purchase Data:** premium status and purchase token/transaction metadata used for entitlement verification and anti-fraud.
 - **Device and Diagnostics Data:** app version, device model, OS version, crash logs, and performance diagnostics.
 - **Messaging Data:** Firebase Cloud Messaging (FCM) token for optional notifications.
@@ -30,6 +31,7 @@ We use collected data to:
 - sync reading state and saved content across devices,
 - verify premium purchase entitlement,
 - provide app features and requested content,
+- identify books from scanner images and fetch matching metadata,
 - generate and rank AI-powered summaries and recommendations,
 - improve reliability, stability, and performance,
 - send optional notifications,
@@ -47,7 +49,7 @@ Bookshelf uses third-party services, including:
 - Google AdMob  
 - Google Play Billing  
 - Google Books API  
-- Google Gemini API (for AI features)  
+- Google Gemini API (for AI features, including scanner-based identification)  
 - Google Play Services / Google Sign-In components
 
 These providers process data under their own policies and terms.
@@ -69,6 +71,7 @@ We retain data only as long as needed for service operation, fraud prevention, l
 - Account and sync data are retained while the account is active.
 - Guest-mode data may be stored locally on-device until cleared or app data is removed.
 - Purchase-related records may be retained for entitlement verification and anti-fraud.
+- Scanner images are not saved as part of synced Bookshelf library records.
 - Some analytics/diagnostic retention is controlled by third-party providers.
 
 ## 6. Security
