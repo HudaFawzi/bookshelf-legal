@@ -1,7 +1,7 @@
 # Terms of Use for Bookshelf
 
 **Effective Date:** February 19, 2026  
-**Last Updated:** March 28, 2026
+**Last Updated:** March 30, 2026
 
 These Terms of Use (“Terms”) govern your use of Bookshelf, provided by Huda AbuSharr (independent developer).
 
@@ -28,17 +28,19 @@ Bookshelf may offer in-app purchases (for example, premium/remove ads) via Googl
 - Premium access depends on successful purchase verification.
 - Misuse, fraud, or tampering may result in suspension of entitlement.
 
-## 5. AI Features and Recommendations
+## 5. AI Features, Book Scanner, and Recommendations
 
-Bookshelf may provide AI-powered summaries and recommendations (including Movie-to-Book results).
+Bookshelf may provide AI-powered summaries and recommendations (including Movie-to-Book results), and may provide Book Scanner identification using camera or gallery images.
 
-- AI outputs may be incomplete, inaccurate, or not suitable for all users.
-- You are responsible for your use of AI-generated content.
-- AI features may rely on third-party services and may change, be limited, or be unavailable.
+- AI outputs and scanner results may be incomplete, inaccurate, or not suitable for all users.
+- You are responsible for your use of AI-generated and scanner-generated results.
+- You must only submit images you have the right to use and share for processing.
+- Do not submit illegal content or sensitive personal data unrelated to identifying a book.
+- AI and scanner features may rely on third-party services and may change, be limited, or be unavailable.
 
 ## 6. Third-Party Content and Services
 
-Bookshelf relies on third-party services and metadata providers (such as Google Books API, Firebase, AdMob, and Google Play services).
+Bookshelf relies on third-party services and metadata providers (such as Google Books API, Firebase, Google Gemini API, AdMob, and Google Play services).
 
 - Book metadata, previews, and linked content are provided by third parties.
 - Third-party terms and policies apply to their services and content.
@@ -51,6 +53,7 @@ You agree not to:
 - reverse engineer or attempt to extract source code,
 - bypass billing, entitlement, or security mechanisms,
 - use the app for unlawful or abusive activity,
+- upload or submit content you do not have rights to use,
 - interfere with app infrastructure or normal operation.
 
 ## 8. Intellectual Property
